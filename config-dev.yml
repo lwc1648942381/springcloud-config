@@ -9,5 +9,5 @@ spring:
     password: xiao1314
     
 mybatis:
-  mapper-locations: classpath:mapper/*.xmlaaaa
+  mapper-locations: classpath:mapper/*.xmlbbbb
   type-aliases-package: com.huacheng.cloud.entities
